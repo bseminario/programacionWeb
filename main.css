@@ -1,0 +1,15 @@
+h1{
+    background-color: hotpink;
+}
+ul{
+    background-color: indigo;
+}
+li{
+    list-style: none;
+    font-family: monospace;
+    font-size: 18px;
+    background-color: goldenrod;
+    margin: 10px;
+    border: 2px green ;
+
+}
