@@ -1,0 +1,17 @@
+*{
+    background-color:green;
+}
+p{
+    background-color:blue;
+}
+div{
+    background-color:yellow;
+    text-align:center;
+}
+
+#numeros{
+    background-color:orange;
+}
+.numerales{
+    background-color:black;
+}
