@@ -1,0 +1,18 @@
+body{
+    background: yellowgreen;
+}
+p{
+    background-color: slateblue;
+}
+span{
+    background-color: violet;
+}
+.hache{
+    background-color: teal;
+}
+img{
+    background-color: slateblue;
+}
+form{
+    background-color: steelblue;
+}
