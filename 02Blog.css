@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+header{
+    background-color: royalblue;
+}
+section{
+    background-color: salmon;
+}
+div{
+    background-color: tomato;
+}
+footer{
+    background-color: seagreen;
+}
+.segundo{
+    background-color: slateblue;
+}
+p{
+    background-color: springgreen;
+}
+#tituloBlog{
+    background-color: yellow;
+}

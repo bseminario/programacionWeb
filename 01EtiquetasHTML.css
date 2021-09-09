@@ -16,3 +16,38 @@ img{
 form{
     background-color: steelblue;
 }
+input{
+    background-color: rgb(145, 236, 145);
+    border-radius: 25px;
+}
+textarea{
+    background-color: cadetblue;
+}
+
+a h1{
+    background-color: chocolate;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+ol{
+    background-color: darkorange;
+}
+ul{
+    background-color: darkred;
+}
+li{
+    background-color: dimgray;
+    /* list-style: lower-roman; */
+    list-style: none;
+}
+table{
+    width:500px;
+    background-color: purple;
+}
+table, th, td {
+    border: 2px dashed;
+}
+tr{
+    background-color: firebrick;
+}
