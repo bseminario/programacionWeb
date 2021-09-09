@@ -1,0 +1,56 @@
+/* @import url("01EtiquetasHTML.css"); */
+body{
+    background-color: thistle;
+}
+header{
+    background: goldenrod;
+    padding: 20px;
+    margin: 30px;
+}
+ul{
+    list-style: none;
+    background-color: royalblue;
+    padding: 0%;
+    margin: 0%;
+    /* display:list-item; */
+    
+}
+li{
+    background-color: tomato;
+    display: inline-block;
+    text-align: center;
+}
+a{
+    font-size: 50px;
+    background-color: crimson;
+    text-align: center;
+}
+a:hover{
+    background: cornflowerblue;
+    color: goldenrod;
+}
+img{
+    width:40%;
+    background-color: indigo;
+}
+.blogPost{
+    background-color: green;
+    display: flex;
+}
+.figura{
+    background-color: indigo;
+    text-align: center;
+}
+.postP{
+    display:inline-block;
+    text-align: center;
+}
+#pox{
+    width:120px;
+    height: 120px;
+    vertical-align:40px ;
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
