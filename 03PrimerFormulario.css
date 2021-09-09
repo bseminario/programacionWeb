@@ -1,0 +1,49 @@
+body{
+    background-color: thistle;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 50px;
+    border-radius : 50px;
+}
+h1:hover{
+    background-color: darkred;
+}
+form{
+    background-color: tomato;
+    text-align:center;
+    padding: auto;
+    margin: auto;
+    margin:100px;
+    border-radius: 50px;
+}
+input{
+    background-color:lightcoral;
+    margin:10px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+input:focus{
+    background-color: lightskyblue;
+}
+#IDenviar:hover{
+    background: darkblue;
+}
+button{
+    background-color: darkorange;
+    border-color: darkred;
+    border-radius: 10px;
+    font-size: 25px;
+}
+button:hover{
+    background-color: royalblue;
+}
+textarea{
+    border-radius: 10px;
+    font-size: 25px;
+    background-color:lightcoral;
+}
+textarea:hover{
+    background-color: darksalmon;
+}

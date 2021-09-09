@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agregando css</title>
+    <link rel="stylesheet" href="03PrimerFormulario.css">
+    <script src="03PrimerFormulario.js"></script>
+  
+</head>
+<body>
+    
+    <form action="GET">
+        <h1>Formulario</h1>
+        <input type="text" name="nombre" id="IDnombre" placeholder="nombre"><br>
+        <textarea name="comentarios" id="IDcoment" cols="30" rows="10">Texto prdeterminado</textarea><br>
+        <input type="password" name="pass" id="IDsecreto" placeholder="Contraseña"><br>
+        <input type="submit" value="Enviar" id="IDenviar"><br>
+        <button type="reset">Limpiar formulario</button>
+    </form>   
+    <script>
+        document.write(obtenerDatos());
+    </script>
+</body>
+</html>
