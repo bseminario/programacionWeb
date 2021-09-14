@@ -1,0 +1,28 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2 rem;
+    line-height: 1.4em;
+}
+.header{
+    background-color: darkred;
+}
+.main{
+    background-color:orange;
+}
+p{
+    border-style: dotted;
+    margin-bottom: 1.6em;
+}
+.container{
+    width: 85%;
+    max-width: 85%;
+    margin: ;
+}
+ul{
+    background-color: orchid;
+}
+li{
+    background-color: olive;
+    border-style: solid;
+}
+padding

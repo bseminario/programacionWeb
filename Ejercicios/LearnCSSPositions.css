@@ -1,0 +1,39 @@
+.parent{
+    background: lightskyblue;
+}
+.child-one-child{
+    position:relative;
+    background-color: rgb(130, 130, 214);
+}
+.child-two-child{
+    position:relative;
+    background-color: tomato;
+}
+.child-three-child{
+    position:relative;
+    background-color: forestgreen;
+}
+.cuadrado{
+    background-color: forestgreen;
+    width: 150px;
+    height: 150px;
+    margin-top: 50px;
+    margin-left: 100px;
+    border-radius: 75px;
+}
+.banderaJapon{
+    width: 300px;
+    height: 150px;
+    border-width: 1px;
+    border-style:solid;
+    border-color: red ;
+    margin-top: 50px;    
+}
+.circulo{
+    background-color:rgb(122, 19, 19);
+    width: 150px;
+    height: 150px;
+   
+    margin-left: 100px;
+    border-radius: 75px;
+}
