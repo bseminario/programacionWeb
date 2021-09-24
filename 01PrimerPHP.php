@@ -1,3 +1,6 @@
 <?php
-echo("Servidor funcionando");
+echo("Servidor funcionando\n");
+echo("la fecha actual es:");
+
 ?>
+
